@@ -4,3 +4,5 @@ def prediction():
 	query_string.split('&&')
 	# input_array=transform query_string
 	output=loaded_model.predict(input_array)
+
+#changes
